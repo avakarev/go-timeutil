@@ -31,4 +31,4 @@ func main() {
 
 ## License
 
-`go-logutil` is licensed under MIT license. (see [LICENSE](./LICENSE))
+`go-timeutil` is licensed under MIT license. (see [LICENSE](./LICENSE))
