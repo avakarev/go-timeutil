@@ -1,4 +1,4 @@
-// timeutil contains useful helpers for runtime and testing
+// Package timeutil contains useful helpers for runtime and testing
 package timeutil
 
 import (
