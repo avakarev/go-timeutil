@@ -2,6 +2,10 @@
 
 > Utilities around time with respect of `TZ` environment variable
 
+# NOTE: deprecated, merged into https://github.com/avakarev/go-util
+> Scheduled for deletion after 2023-09-1
+
+
 ## Install
 
 ```shell
